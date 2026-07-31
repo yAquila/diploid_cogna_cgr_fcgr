@@ -1,0 +1,6 @@
+.vscode/
+.vscode
+report/
+*.npz
+*.pkl
+*.txt
